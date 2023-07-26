@@ -27,5 +27,6 @@
 - Smooth scrolling in each section.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-![Capture 11](https://github.com/pstamil/pstamil.github.io/assets/109160303/e3537933-95cf-4b7f-9910-785f033843a2)
+![Capture 11](https://github.com/pstamil/pstamil.github.io/assets/109160303/16841f6d-c4e6-47b3-a500-ec2c33884335)
+
 
