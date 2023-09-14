@@ -24,7 +24,7 @@
 
 # Responsive Personal Website
 
-<h3 align="left">Live Demo :</h3> -->  https://pstamil.github.io/
+Live Demo : -->  https://pstamil.github.io/
 
 - Responsive Personal project Website Using HTML CSS And JavaScript
 - Smooth scrolling in each section.
