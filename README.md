@@ -1,5 +1,5 @@
 
-<h3 align="center">A passionate React-Frontend Developer from India</h3>
+<h1 align="left">A passionate React-Frontend Developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/pstamil](https://github.com/pstamil)
 
