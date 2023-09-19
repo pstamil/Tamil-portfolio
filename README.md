@@ -1,9 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Tamilarasan</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
-
-
-- 🔭 I’m currently working on **Hubio Technologies**
+<h3 align="center">A passionate React-Frontend Developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/pstamil](https://github.com/pstamil)
 
